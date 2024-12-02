@@ -1,0 +1,2 @@
+# SUIAIContracts
+SUIAI smart contracts
